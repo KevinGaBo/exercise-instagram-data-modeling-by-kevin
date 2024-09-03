@@ -4,9 +4,7 @@
 
 **Important**: To do this activity you need to `fork` [this repo](https://github.com/breatheco-de/exercise-instagram-data-modeling) into your **Github** account and then open the forked repo on Codespaces (recommended) or Gitpod.
 
-### Project Description / Descripción del Proyecto
-
-**English:**
+## Project Description
 
 This project aims to create a database model for Instagram using the SQLAlchemy library in Python. Through this exercise, developers will learn to design and structure a relational database that represents the main components of the Instagram application, such as users, posts, comments, and more.
 
@@ -15,16 +13,6 @@ The project includes creating an Entity Relationship Diagram (ERD) that visualiz
 Additionally, it provides the opportunity to use cloud development tools such as Codespaces or Gitpod, making coding and collaboration easier. It is ideal for those looking to learn about database modeling, using ORM with SQLAlchemy, and creating ERD and UML diagrams.
 
 This exercise is part of the 4Geeks Academy curriculum, designed to prepare students for professional software development with a focus on practical application and real-world projects.
-
-**Español:**
-
-Este proyecto tiene como objetivo crear un modelo de base de datos para Instagram utilizando la biblioteca SQLAlchemy en Python. A través de este ejercicio, los desarrolladores aprenderán a diseñar y estructurar una base de datos relacional que represente los principales componentes de la aplicación Instagram, como usuarios, publicaciones y comentarios.
-
-El proyecto incluye la creación de un Diagrama de Relaciones de Entidad (ERD) que visualiza las tablas y sus relaciones. Este diagrama es esencial para entender cómo se organizan y conectan los datos en una aplicación compleja como Instagram.
-
-Además, permite usar herramientas en la nube como Codespaces o Gitpod, facilitando la codificación y la colaboración. Es ideal para quienes desean aprender sobre modelado de bases de datos, uso de ORM con SQLAlchemy, y creación de diagramas ERD y UML.
-
-Este ejercicio forma parte del plan de estudios de 4Geeks Academy, diseñado para preparar a los estudiantes en el desarrollo de software profesional, con un enfoque en la práctica y la aplicación del conocimiento en proyectos reales.
 
 Inside the `src/models.py` file, you will find a couple of classes describing an example database.
 

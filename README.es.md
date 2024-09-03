@@ -4,6 +4,16 @@
 
 **Importante**: Para realizar esta actividad necesitas hacer un `fork` de [este repo](https://github.com/breatheco-de/exercise-instagram-data-modeling) en tu cuenta de **Github** y luego, abre el *fork* en Codespaces (recomendado) o Gitpod.
 
+## Descripción del Proyecto
+
+Este proyecto tiene como objetivo crear un modelo de base de datos para Instagram utilizando la biblioteca SQLAlchemy en Python. A través de este ejercicio, los desarrolladores aprenderán a diseñar y estructurar una base de datos relacional que represente los principales componentes de la aplicación Instagram, como usuarios, publicaciones y comentarios.
+
+El proyecto incluye la creación de un Diagrama de Relaciones de Entidad (ERD) que visualiza las tablas y sus relaciones. Este diagrama es esencial para entender cómo se organizan y conectan los datos en una aplicación compleja como Instagram.
+
+Además, permite usar herramientas en la nube como Codespaces o Gitpod, facilitando la codificación y la colaboración. Es ideal para quienes desean aprender sobre modelado de bases de datos, uso de ORM con SQLAlchemy, y creación de diagramas ERD y UML.
+
+Este ejercicio forma parte del plan de estudios de 4Geeks Academy, diseñado para preparar a los estudiantes en el desarrollo de software profesional, con un enfoque en la práctica y la aplicación del conocimiento en proyectos reales.
+
 Dentro del archivo `src/models.py` encontrarás un par de clases que describen una base de datos de ejemplo.
 
 Aquí hay un video de 10 minutos que explica qué es UML: [https://www.youtube.com/watch?v=UI6lqHOVHic](https://www.youtube.com/watch?v=UI6lqHOVHic)
